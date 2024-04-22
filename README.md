@@ -1,7 +1,9 @@
-### Olá! Eu sou o Gustavo Araujo 🙋‍♂️
-![Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoA8&show_icons=true&theme=tokyonight)
+<h1 align="center">Olá! Eu sou o Gustavo Araujo 🙋🏾‍♂️</h1>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GustavoA8&show_icons=true&theme=tokyonight">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoA8&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoA8&layout=compact&theme=tokyonight">
+</div>
 
 
 
