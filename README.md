@@ -29,6 +29,6 @@
 
 
 <ul>
- <li>Email: fefe.giulia2@gmail.com</li>
+ <li>Email: gustavo.asouza2006@gmail.com</li>
  <li>Linkedin: Gustavo Araujo</li>
 </ul>
