@@ -12,7 +12,7 @@
 <div align="center" style=" display: flex; gap: 10p">
 
 
-<img style="width: 80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/py-original.svg" />
+<img style="width: 80px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
 
 <img style="width: 80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
